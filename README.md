@@ -56,14 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🏆 Achievements
 
 🏅 Smart India Hackathon 2025 — National Winner
@@ -72,18 +64,14 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Connect With Me
 
 * LinkedIn: https://linkedin.com/in/vishalgoel063
 * Email: [vishh911@gmail.com](mailto:vishh911@gmail.com)
+* LeetCode: https://leetcode.com/u/vishhal_04/
+* Codeforces: https://codeforces.com/profile/tribalchief_122004
+```markdown
 
 ---
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
 
