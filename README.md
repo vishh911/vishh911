@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Vishal Goel
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F700\&size=32\&center=true\&vCenter=true\&width=1000\&lines=Computer+Science+Student;C+%7C+C%2B%2B+Developer;Machine+Learning+Enthusiast;NLP+%26+Systems+Programming;Building+Scalable+Software)
+```markdown
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F700&size=32&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Building+Strong+Foundations+in+DSA+using+C%2B%2B;Machine+Learning+Enthusiast;Systems+Programming;NLP+Developer)
+```
 
 ---
 
@@ -68,10 +70,8 @@
 ## 📫 Connect With Me
 
 * LinkedIn: https://linkedin.com/in/vishalgoel063
-* Email: [vishh911@gmail.com](mailto:vishh911@gmail.com)
 * LeetCode: https://leetcode.com/u/vishhal_04/
 * Codeforces: https://codeforces.com/profile/tribalchief_122004
 ```markdown
 
----
 
