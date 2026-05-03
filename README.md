@@ -1,6 +1,9 @@
 # Hi there 👋 I'm Vishal Goel
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F700\&size=32\&center=true\&vCenter=true\&width=1000\&lines=Computer+Science+Student;C+%7C+C%2B%2B+Developer;Machine+Learning+Enthusiast;NLP+%26+Systems+Programming;Building+Scalable+Software)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F700&size=32&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;C%2B%2B+%7C+DSA+%7C+Problem+Solving;Machine+Learning+Enthusiast;NLP+%26+Systems+Programming;Building+Scalable+Software)
+
+
 
 ---
 
