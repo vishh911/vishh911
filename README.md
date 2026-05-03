@@ -68,7 +68,7 @@
 ---
 
 
-## 📫 Connect With Me
+## 📫 Some Useful Links
 
 * LinkedIn: https://linkedin.com/in/vishalgoel063
 * LeetCode: https://leetcode.com/u/vishhal_04/
