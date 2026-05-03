@@ -61,9 +61,9 @@
 
 ## 🏆 Achievements
 
-🏅 Smart India Hackathon 2025 — National Winner
-🏅 Built AI-driven supply chain orchestration systems
-🏅 Experience in scalable backend and systems engineering
+ * Smart India Hackathon 2025 — National Winner
+ * Built AI-driven supply chain orchestration systems
+ * Experience in scalable backend and systems engineering
 
 ---
 
